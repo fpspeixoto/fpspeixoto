@@ -1,7 +1,7 @@
 ## Olá sou Fernando Peixoto - Desenvolvendo fullstack desde 2015 😉
 
 <div align="center">
-  <a href="https://github.com/gabrieloqueiroz">
+  <a href="https://github.com/fpspeixoto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fpspeixoto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpspeixoto&layout=compact&langs_count=7&theme=react"/>-->
 </div>
